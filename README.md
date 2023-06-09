@@ -22,6 +22,14 @@ This tutorial will show the lifecycle of a ticket from its initial intake to res
 - Windows 10</b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
+- Intake
+
+- Delegating and Reporting
+
+- Analyzing and servicing the Issue
+
+- Resolving the problem 
+
 
 
 
