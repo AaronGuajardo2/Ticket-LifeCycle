@@ -30,6 +30,6 @@ This tutorial will show the lifecycle of a ticket from its initial intake to res
 
 - Resolving the problem 
 
-
+<h2>Lifecycle Stages</h2>
 
 
